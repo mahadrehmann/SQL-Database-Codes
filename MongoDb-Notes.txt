@@ -1,0 +1,29 @@
+Large database we prefer NoSql because otherwise doing with joins more complex and timetaking
+So in NOSQL databases we disn't make join and relations.
+
+Scalibility of NOSQL is easy.
+Horizontal :
+Vertical scaling: Systems increase.
+
+
+1) Write master Slave and later update in slave
+So there come a scenario where we are retrieving data from slave
+
+2) Master-Master...Copy
+
+shedding of data.
+
+NoSql Doesn't require schema like erd etc. beeacuse data is unstructure.
+---)Documents
+---)create Collecion because no schema
+No concept of primary key and foriegn key in MongoDB.  By default MongoDb defines
+
+
+use db for new database
+
+--)Braces inside document
+1 to 1 or 1 to many we use nested document
+
+Another type ..) Details(If wants to learn more)..> Usually elective offered -> Distibutive Data Engineering
+--) Key-value pair
+--) Graph Based
